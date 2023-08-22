@@ -15,10 +15,10 @@ global.alivemsg = `📤I am alive now😇
 🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 
-global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false //auto reading in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
+global.autoReadGc = true //auto reading in gc (true to on, false to off)
+global.autoRecord = true//auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -29,34 +29,34 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.vcardowner = ['+94712639422'] // owner number
+global.ownername = "Woshitha Maduwantha W.M. " // owner name
 global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
+global.socialm = "GitHub: Woshitha " // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
-global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
+global.dragonchat = "true "  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
-global.antibad = "false" // To remove bad word senders
+global.antibad = "true" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
 global.antilink = "false" // To remove group link sharing peoples
 global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.owner = [+94773225300']
+global.ownertag = '+943225300' //your tag number
+global.botname = 'W.M.dragon Elisa' //ur bot name
+global.packname = "W.M.dragon Elisa Sticker" // sticker packname
+global.author = "W.M.dragon Elisa " // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.footer = '[ ◉ W.M.dragon Elisa ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+943225300'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
@@ -236,11 +236,6 @@ global.rep = { // All Replies = 145
     K72: '🙄ආ හා 😏ගහපන් බලන්න💔👎',
     K73: 'හී😂😂😂💓',
     K74: 'වන්ඩර්පුල්🥲😂',
-    K75: '😂ඕං බලන්නකො ඒකෙත් හැටි නේද🥴😂',
-    K76: '😌එල',
-    K77: '🥲මොකෝ ඩෝ😉❣️',
-    K78: 'අඩෙහ්🙃😹',
-    K79: 'ඔය කිව්වට ලොකු නෑ හොඳේ😏',
     K80: '😹මම නං පොඩී තමයි ඉතිං😌',
     K81: '🥴ටිකයි ද?😂',
     K82: '🥴ඒකි එහෙම නෑ බන්😅',
@@ -250,9 +245,7 @@ global.rep = { // All Replies = 145
     K86: 'හා😒 කියනකං තමයි හිටියෙ🙏❣️',
     K87: 'මන් දන්නෑ🥲',
     K88: '  👀  ',
-    K89: '🥺ගිහින් බේත් ගන්න',
-    K90: '🥺ගොඩක් අමාරුද?☝️',
-    K91: 'DSI පාරක් කන්න ආසද?😂',
+    K89:......................................................... K91: 'DSI පාරක් කන්න ආසද?😂',
     K92: 'කලිසම ගලවනෝකො ඉතිං😒',
     K93: 'අත ලෙප්ට්🥲',
     K94: '🫢🫢හරි නරකයි😒',
